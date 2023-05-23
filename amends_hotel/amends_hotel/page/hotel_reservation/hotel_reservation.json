@@ -1,0 +1,26 @@
+{
+ "content": null,
+ "creation": "2023-05-23 12:09:14.035830",
+ "docstatus": 0,
+ "doctype": "Page",
+ "idx": 0,
+ "modified": "2023-05-23 12:09:14.035830",
+ "modified_by": "Administrator",
+ "module": "Amends Hotel",
+ "name": "hotel-reservation",
+ "owner": "Administrator",
+ "page_name": "hotel-reservation",
+ "roles": [
+  {
+   "role": "Accounts User"
+  },
+  {
+   "role": "All"
+  }
+ ],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 0,
+ "title": "Hotel Reservation"
+}
