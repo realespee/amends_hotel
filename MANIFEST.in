@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include amends_hotel *.css
+recursive-include amends_hotel *.csv
+recursive-include amends_hotel *.html
+recursive-include amends_hotel *.ico
+recursive-include amends_hotel *.js
+recursive-include amends_hotel *.json
+recursive-include amends_hotel *.md
+recursive-include amends_hotel *.png
+recursive-include amends_hotel *.py
+recursive-include amends_hotel *.svg
+recursive-include amends_hotel *.txt
+recursive-exclude amends_hotel *.pyc
