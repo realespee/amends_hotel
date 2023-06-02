@@ -199,3 +199,7 @@ app_license = "MIT"
 # auth_hooks = [
 #	"amends_hotel.auth.validate"
 # ]
+
+fixtures = [
+    'Custom Field'
+]
